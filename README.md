@@ -14,3 +14,6 @@ Creating the loop is the most complex part of this as the loop allows for seamle
 
 ![image](https://github.com/user-attachments/assets/48656440-91ae-45ab-9aff-11ce3cb5818f) Detailed View
 Like the main screen, it shows how the screen is streamlined in a way to make it easier on the user as the buttons and table is placed in areas that the user would be familiar with.
+
+Module manual (no date). https://mystudies.iie.edu.za/d2l/home/21975 (Accessed: June 19, 2025).
+ZeroGPT (no date). https://www.zerogpt.com/chat (Accessed: June 19, 2025).
